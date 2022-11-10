@@ -1,0 +1,122 @@
+@charset "utf-8";
+header img {
+	max-width: 100%;
+}
+body {
+	background-color: #80f590
+}
+
+.ddmenu {
+	width: 100%;
+	height: 40px;
+}
+ul.ddmenu {
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+    background-color: #808080;
+    float: none;
+}
+
+
+ul.ddmenu li {
+   width: 125px;           
+   display: inline-block;  
+   list-style-type: none;  
+   position: relative;     
+}
+ul.ddmenu a {
+   background-color: #808080; 
+   color: #ffffff;              
+   line-height: 40px;         
+   text-align: center;        
+   text-decoration: none;     
+   font-weight: bold;         
+   display: block;            
+}
+ul.ddmenu a:hover {
+   background-color: #c0c0c0; 
+   color: #000000;            
+}
+
+
+ul.ddmenu ul {
+   display: none;       
+   margin: 0px;         
+   padding: 0px;        
+   position: absolute;  
+}
+
+
+ul.ddmenu ul li a:hover {   
+   background-color: #ffff80; 
+   color: #005500;            
+}
+
+body p img {
+	display: inline-block;
+	height: 300;
+	width:33%;
+}
+
+
+#shop {
+	color: #0000FF;
+}
+body header {
+    font-size: 60px;
+	color: #714f06;
+}
+body h1{
+	font-size: 40px;
+	color: #714f06;
+}
+.menu{
+	background-color: #B9C42F;
+	float: left;
+	width: 50%;
+}
+
+.wrap{
+	background-color: #B9C42F;
+	desplay: flex;
+}
+
+.menu img{
+	height: 500px;
+	width: 100%;
+}
+
+body h{
+	font-size: 40px;
+	color: #714f06;
+}
+body h3{
+	font-size: 30px;
+	color: #FF0000;
+}
+body h4{
+	font-size: 30px;
+	color: #FF0000;
+}
+body h5{
+	font-size: 30px;
+	color: #FF0000;
+}
+body h6{
+	font-size: 30px;
+	color: #FF0000;
+}
+body h7{
+	font-size: 30px;
+	color: #FF0000;
+}
+body p img{
+	display: inline-block;
+	height: 300px;
+	width: 33%
+}
+
+body h8{
+	font-size: 40px;
+	color: #714f06;
+}
